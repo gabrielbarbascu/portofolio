@@ -30,7 +30,7 @@ function Portfolio() {
               <div className="portfolio-item">
                 <img src="/kajian.jpg" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">kajian App</h4>
+                <h4 className="portfolio-name">Gabriel App</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>
             </div>
